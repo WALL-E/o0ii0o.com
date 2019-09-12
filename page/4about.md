@@ -22,4 +22,4 @@ type: page
 
 ## 友情链接
 
-[极客学院](https://www.jikexueyuan.com/) \| [实验楼](https://www.shiyanlou.com/) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
+[极客学院](https://www.jikexueyuan.com/) \| [实验楼](https://www.shiyanlou.com/) \| [牛客网](https://www.nowcoder.com/) \| [www.w3ctech](https://www.w3ctech.com/) \| [Linux中国](https://linux.cn/) \| [异步社区](https://www.epubit.com/index) \| [码云](https://gitee.com) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
