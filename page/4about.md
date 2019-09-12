@@ -17,6 +17,8 @@ type: page
 
 * GitHub：[WALL-E](https://github.com/WALL-E/)
 * email：zzgigi2003#163.com
+* 公众号:
+![qrcode](/qrcode_for_gh_a0c11c02308b_258.jpg)
 
 ## 友情链接
 
